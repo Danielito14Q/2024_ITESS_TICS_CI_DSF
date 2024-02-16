@@ -1,6 +1,7 @@
 /*
 * ITESS/TICS 2024
 *ENERO-JUNIO2024
+*UNIDAD 1:
 *CALCULO INTEGRAL
  */
 package ci.unidad1.aproximation;
